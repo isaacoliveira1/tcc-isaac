@@ -3,7 +3,7 @@
 Introdução ao Protótipo
 </h1>
 
-Este projeto foi desenvolvido como aplicativo utilizando [React](https://pt-br.reactjs.org) e [ReactNative] (https://reactnative.dev), onde foi desenvolvida um protótipo de aplicativo com algumas funcionalidades propostas ao longo do desenvolvimento.
+Este projeto foi desenvolvido como aplicativo utilizando [React] (https://pt-br.reactjs.org) e [ReactNative] (https://reactnative.dev), onde foi desenvolvida um protótipo de aplicativo com algumas funcionalidades propostas ao longo do desenvolvimento.
 
 Para rodar o projeto utilize os seguintes comandos comandos:
 
