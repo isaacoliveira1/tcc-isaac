@@ -15,7 +15,7 @@ Para rodar o projeto utilize os seguintes comandos comandos:
 # Estrutura do projeto
 
 A pasta Assets é responsável pelas Imagens<br>
-A pasta Components é responsável permitem você dividir a UI em partes independentes, reutilizáveis e pensar em cada parte isoladamente<br>
+A pasta Components permite você dividir a UI em partes independentes, reutilizáveis e pensar em cada parte isoladamente<br>
 A pasta Pages é onde estão localizadas todas as telas.<br>
 A pasta Server é onde estão localizadas os arquivos para rodar o servidor da aplicação.<br>
 A pasta Service é onde estão localizadas os arquivos para utilizar API de consulta, cadastro e exclusão de informação no servidor da aplicação.<br>
